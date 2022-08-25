@@ -3,5 +3,6 @@
 echo "ALX school!"
 "
 =======
+#!/bin/bash
 echo "ALX school"
 >>>>>>> update_script
